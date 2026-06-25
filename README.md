@@ -24,7 +24,7 @@ TaskNest is a Java console-based freelance task management system.
 - IntelliJ IDEA
 
 ## Author
+
 Keerthi Latha S M
 
 
-Keerthi L
